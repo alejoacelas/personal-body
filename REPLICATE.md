@@ -26,3 +26,11 @@ The human wanted to remove unstarted personal projects and simplify the remainin
 - Merged body and mind into `me/health`, preserving both Git histories; food and light research now share one repository. Kept both original seed prompts and mental-health context.
 
 Agent session 01a0b90b-7ae3-7ed1-bb2f-fde3ad5d78d3 · Commits health: 14f68bb, 122d3c3
+
+## Bring meals beside food research
+
+Alejo wanted meals moved out of personal administration and into health.
+
+- Moved ~/best/me/admin/2026-06-meals to ~/best/me/health/meals as an independent repository, added it to the index and ignored it in the parent repository.
+
+Agent session 01a0b905-404c-7231-916c-024f887eb815 · Commits 606d2e2
