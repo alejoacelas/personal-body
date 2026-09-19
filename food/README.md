@@ -32,5 +32,5 @@ or inference, and the docs now say so up front.
 
 ## Neighbors
 
-- `me/body` — the parent; food is one pillar beside exercise and ergonomics.
-- `me/mind` — energy and cognition tie diet back to mood and focus.
+- `me/health` — the parent; food is one pillar beside exercise and ergonomics.
+- `me/health/light/` — energy and cognition tie diet back to mood and focus.
