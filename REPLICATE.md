@@ -34,3 +34,12 @@ Alejo wanted meals moved out of personal administration and into health.
 - Moved ~/best/me/admin/2026-06-meals to ~/best/me/health/meals as an independent repository, added it to the index and ignored it in the parent repository.
 
 Agent session 01a0b905-404c-7231-916c-024f887eb815 · Commits 606d2e2
+
+## Agent instructions cleanup — 2026-09-19
+
+Alejo asked to refresh project instructions and remove redundant Claude instruction files where native AGENTS.md loading is available.
+
+- Updated the applicable instructions and removed redundant local Claude copies; distinct content and preserved snapshots remain.
+- Checked instruction references and shared-context freshness; native Claude loading requires 2.1.277+ with the built-in feature enabled.
+
+Agent session 01a0b915-3eb2-78b2-9add-6ba48ad9a3b1 · Commits a1ac17712bc4e25645a7fb8e9651883c25ac59fb
