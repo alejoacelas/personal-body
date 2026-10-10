@@ -1,7 +1,4 @@
 .DS_Store
-/bipolar-medication/
-
-.DS_Store
 __pycache__/
 *.pyc
 .venv/
@@ -12,3 +9,6 @@ node_modules/
 
 # Independent meal-planning repository.
 /meals/
+
+# Independent private repository: alejoacelas/personal-mood.
+/mood/
