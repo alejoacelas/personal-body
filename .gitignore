@@ -7,8 +7,5 @@ node_modules/
 .env.*
 !.env.example
 
-# Independent meal-planning repository.
-/meals/
-
 # Independent private repository: alejoacelas/personal-mood.
 /mood/
